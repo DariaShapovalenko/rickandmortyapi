@@ -1,0 +1,27 @@
+.input{
+    width: 320px;
+    height: 18px;
+    margin: 10px 0px 10px 17px;
+    border: none;
+    background-color: whitesmoke;
+    outline:none;
+}
+.button{
+    position: relative;
+    width: 18px;
+    height: 18px;
+    border: none;
+    background-color: whitesmoke;
+    top: 3px;
+    right: -10px;
+}
+.search-border{
+    border: 2px solid lightgrey;
+    width: 390px;
+    border-radius: 20px;
+    margin: 30px auto;
+    background-color: whitesmoke;
+}
+.search-wrapper{
+    height: 80px;
+}

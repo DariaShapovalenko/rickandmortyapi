@@ -1,0 +1,41 @@
+.characters-wrapper{
+  width: 1000px;
+  margin: auto;
+}
+ul{
+  list-style-position: inside;
+  column-count: 2;
+  margin: 0px;
+}
+li{
+  list-style-type:none;
+  margin-bottom: 20px;
+}
+.page{
+  background-color: whitesmoke;
+  border-radius: 50%;
+  border: none;
+  margin: 5px;
+  width: 22px;
+  height: 22px;
+  cursor: pointer;
+}
+.box{
+  position: absolute;
+  top:110px;
+  right: 250px;
+}
+.paragraph>span{
+  color: whitesmoke;
+  cursor: pointer;
+  font: bold;
+}
+.Menu{
+  list-style: none;
+  text-align: start;
+  width: 150px;
+  margin-left: 140px;
+}
+.hidebutton{
+  display: none;
+}

@@ -1,0 +1,46 @@
+.card{
+    position: relative;
+    width: 440px;
+    height: 190px;
+    background-color: whitesmoke;
+    border: 3px solid lightgrey;
+    border-right: 3px solid lightslategray;
+    border-bottom: 3px solid lightslategray;
+    border-radius: 20px;
+}
+.character-image{
+    border-right: 3px solid lightslategray;
+    width: 170px;
+    height: 170px;
+    border-radius: 20px;
+    margin: 10px;
+}
+.info{
+    position: absolute;
+    right: 40px;
+    top: 40px;
+    width: 200px;
+}
+.name{
+    cursor: pointer;
+    font-weight:bold;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
+.star{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    height: 27px;
+    width: 30px;
+    cursor: pointer;
+    background-color: whitesmoke;
+    border: none;
+    background-image: url('./star-regular.svg');
+}
+.star:hover{
+    background-image: url('./star-regular-hover.svg');
+}
+.changed{
+    background-image: url('./star-solid.svg') !important;
+} 
