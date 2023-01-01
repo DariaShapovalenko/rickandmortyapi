@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/rickandmortyapi/static/css/main.2c3e92fd.css",
-    "main.js": "/rickandmortyapi/static/js/main.bb20a842.js",
+    "main.css": "/rickandmortyapi/static/css/main.1ef8085a.css",
+    "main.js": "/rickandmortyapi/static/js/main.622ce786.js",
     "static/js/787.cc4e593a.chunk.js": "/rickandmortyapi/static/js/787.cc4e593a.chunk.js",
     "static/media/star-regular-hover.svg": "/rickandmortyapi/static/media/star-regular-hover.2c482d555164ec17abf5.svg",
     "static/media/star-regular.svg": "/rickandmortyapi/static/media/star-regular.562ce0771fb06c7459f5.svg",
     "index.html": "/rickandmortyapi/index.html",
     "static/media/star-solid.svg": "/rickandmortyapi/static/media/star-solid.ada2ab1ca302bd7c9465.svg",
     "static/media/magnifying-glass-solid.svg": "/rickandmortyapi/static/media/magnifying-glass-solid.138ac0bc58c664b64762f855074905d9.svg",
-    "main.2c3e92fd.css.map": "/rickandmortyapi/static/css/main.2c3e92fd.css.map",
-    "main.bb20a842.js.map": "/rickandmortyapi/static/js/main.bb20a842.js.map",
+    "main.1ef8085a.css.map": "/rickandmortyapi/static/css/main.1ef8085a.css.map",
+    "main.622ce786.js.map": "/rickandmortyapi/static/js/main.622ce786.js.map",
     "787.cc4e593a.chunk.js.map": "/rickandmortyapi/static/js/787.cc4e593a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c3e92fd.css",
-    "static/js/main.bb20a842.js"
+    "static/css/main.1ef8085a.css",
+    "static/js/main.622ce786.js"
   ]
 }
